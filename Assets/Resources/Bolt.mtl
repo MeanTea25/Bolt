@@ -1,0 +1,11 @@
+newmtl body
+Kd 0.200 0.450 0.850
+
+newmtl accent
+Kd 1.000 0.550 0.100
+
+newmtl eye
+Kd 0.200 1.000 0.900
+
+newmtl dark
+Kd 0.150 0.160 0.200
